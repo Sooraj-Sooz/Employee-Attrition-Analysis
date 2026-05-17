@@ -176,25 +176,6 @@ HR-Analytics-Dashboard/
 
 ---
 
-# 📷 How to Add Dashboard Screenshot
-
-1. Create a folder named:
-
-```bash
-images
-```
-
-2. Save your dashboard screenshot inside it:
-
-```bash
-hr_dashboard.png
-```
-
-3. Use this code in README:
-
-```markdown
-![Dashboard Screenshot](images/hr_dashboard.png)
-```
 
 ---
 
