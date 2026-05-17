@@ -37,10 +37,6 @@ The goal of this project is to help organizations make **data-driven HR decision
 
 ## Main Dashboard
 
-> Add your dashboard screenshot here
-
-```markdown
-![Dashboard Screenshot](images/hr_dashboard.png)
 ```
 
 ---
