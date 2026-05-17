@@ -37,6 +37,9 @@ The goal of this project is to help organizations make **data-driven HR decision
 
 ## Main Dashboard
 
+> Add your dashboard screenshot here
+
+
 ```
 
 ---
@@ -155,6 +158,25 @@ The goal of this project is to help organizations make **data-driven HR decision
 
 ---
 
+# 📂 Project Structure
+
+```bash
+HR-Analytics-Dashboard/
+│
+├── Dataset/
+│   └── HR_Analytics.csv
+│
+├── Dashboard/
+│   └── HR_Analytics.pbix
+│
+├── Images/
+│   └── hr_dashboard.png
+│
+└── README.md
+```
+
+---
+
 # 📷 How to Add Dashboard Screenshot
 
 1. Create a folder named:
@@ -192,6 +214,9 @@ hr_dashboard.png
 
 **Sooraj Suresh**
 
+
+
+---
 
 # ⭐ If you liked this project
 
